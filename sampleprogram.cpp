@@ -2,6 +2,8 @@
 using namespace std
 int main()
 {
-cout<<"Dinesh";
+int a;
+int b;
+int c = a+b;
 return 0;
 }
